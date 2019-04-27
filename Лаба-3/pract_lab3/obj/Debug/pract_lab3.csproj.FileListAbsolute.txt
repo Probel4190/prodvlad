@@ -1,0 +1,3 @@
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\pract_lab3.csproj.CoreCompileInputs.cache
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\lab3.dll
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\lab3.pdb

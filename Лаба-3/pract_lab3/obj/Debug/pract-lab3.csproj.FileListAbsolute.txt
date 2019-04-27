@@ -1,0 +1,16 @@
+C:\Users\metka\Desktop\lab3\lab3\bin\lab3.dll.config
+C:\Users\metka\Desktop\lab3\lab3\bin\lab3.dll
+C:\Users\metka\Desktop\lab3\lab3\bin\lab3.pdb
+C:\Users\metka\Desktop\lab3\lab3\bin\EntityFramework.dll
+C:\Users\metka\Desktop\lab3\lab3\bin\EntityFramework.SqlServer.dll
+C:\Users\metka\Desktop\lab3\lab3\bin\MySql.Data.dll
+C:\Users\metka\Desktop\lab3\lab3\bin\MySql.Data.Entity.EF6.dll
+C:\Users\metka\Desktop\lab3\lab3\bin\EntityFramework.xml
+C:\Users\metka\Desktop\lab3\lab3\bin\EntityFramework.SqlServer.xml
+C:\Users\metka\Desktop\lab3\lab3\bin\MySql.Data.xml
+C:\Users\metka\Desktop\lab3\lab3\bin\MySql.Data.Entity.EF6.xml
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\pract-lab3.csprojAssemblyReference.cache
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\pract-lab3.csproj.CoreCompileInputs.cache
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\pract-lab3.csproj.CopyComplete
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\lab3.dll
+C:\Users\metka\Desktop\lab3\lab3\obj\Debug\lab3.pdb
